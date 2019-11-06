@@ -6,7 +6,6 @@ license
 website
 rating
 genre [1, 2, 3]
-subtitles [en, pl]
 enchanted
 next_episode
 previous_episode
