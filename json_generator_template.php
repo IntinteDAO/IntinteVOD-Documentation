@@ -2,6 +2,7 @@
 
 $movie["title"]="";
 $movie["author"]="";
+$movie["link"]="";
 $movie["description"]="";
 $movie["hidden"]=0;
 $movie["license"]="";
